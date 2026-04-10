@@ -7,7 +7,7 @@ This project was built to learn core React concepts including hooks, Context API
 
 ## 🔗 Live Demo
 
-[View Live on Vercel](#) ← replace with your deployed URL
+[https://shop-react-blush.vercel.app/](#) ← replace with your deployed URL
 
 ---
 
@@ -17,7 +17,7 @@ This project was built to learn core React concepts including hooks, Context API
 
 | Home Page | Cart Page |
 |-----------|-----------|
-| ![Home](./screenshots/home.png) | ![Cart](./screenshots/cart.png) |
+| ![Home](https://www.awesomescreenshot.com/image/59749129?key=55e6bde038b2d84104fdfc1a46bcbe1c) | ![Cart](https://www.awesomescreenshot.com/image/59749141?key=073244fa824210e60738f6c84b328eca) |
 
 ---
 
@@ -130,7 +130,7 @@ To deploy your own copy:
 ## 🙋 Author
 
 **Your Name**  
-[GitHub](https://github.com/your-username) · [LinkedIn](https://linkedin.com/in/your-profile)
+[GitHub](https://github.com/manitcodes247) · [LinkedIn](https://www.linkedin.com/in/manit-singh/)
 
 ---
 
