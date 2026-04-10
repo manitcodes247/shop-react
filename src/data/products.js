@@ -1,0 +1,68 @@
+const products = [
+  {
+    id: 1,
+    name: "Wireless Headphones",
+    price: 59.99,
+    category: "Electronics",
+    image: "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=300&h=300&fit=crop",
+    rating: 4.5,
+  },
+  {
+    id: 2,
+    name: "Running Shoes",
+    price: 89.99,
+    category: "Sports",
+    image: "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=300&h=300&fit=crop",
+    rating: 4.2,
+  },
+  {
+    id: 3,
+    name: "Backpack",
+    price: 45.00,
+    category: "Accessories",
+    image: "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=300&h=300&fit=crop",
+    rating: 4.7,
+  },
+  {
+    id: 4,
+    name: "Sunglasses",
+    price: 29.99,
+    category: "Accessories",
+    image: "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=300&h=300&fit=crop",
+    rating: 4.0,
+  },
+  {
+    id: 5,
+    name: "Smart Watch",
+    price: 199.99,
+    category: "Electronics",
+    image: "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=300&h=300&fit=crop",
+    rating: 4.8,
+  },
+  {
+    id: 6,
+    name: "Yoga Mat",
+    price: 35.00,
+    category: "Sports",
+    image: "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=300&h=300&fit=crop",
+    rating: 4.3,
+  },
+  {
+    id: 7,
+    name: "Desk Lamp",
+    price: 24.99,
+    category: "Home",
+    image: "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=300&h=300&fit=crop",
+    rating: 4.1,
+  },
+  {
+    id: 8,
+    name: "Coffee Mug",
+    price: 14.99,
+    category: "Home",
+    image: "https://images.unsplash.com/photo-1514228742587-6b1558fcca3d?w=300&h=300&fit=crop",
+    rating: 4.6,
+  },
+];
+
+export default products;
