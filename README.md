@@ -9,6 +9,8 @@ This project was built to learn core React concepts including hooks, Context API
 
 [https://shop-react-blush.vercel.app/cart](#) ← replace with your deployed URL
 
+https://shop-react-blush.vercel.app/
+
 ---
 
 ## 📸 Screenshots
