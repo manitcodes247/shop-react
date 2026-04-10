@@ -7,7 +7,7 @@ This project was built to learn core React concepts including hooks, Context API
 
 ## 🔗 Live Demo
 
-[https://shop-react-blush.vercel.app/](#) ← replace with your deployed URL
+[https://shop-react-blush.vercel.app/] ← replace with your deployed URL
 
 ---
 
